@@ -8,4 +8,4 @@ Solutions to problems from https://github.com/SzymonNowakowski/Machine-Learning-
 
 #Praca domowa 3 (Regression): [Lab03_regression-homework.ipynb](https://colab.research.google.com/drive/1LPNTf8PixDhSJs8Vz33-9MSMVm9xBcgD#scrollTo=B1K2cKMGKi0Z)
 
-#Praca domowa 4 (Penalized regression): [Lab03_penalized_regression_homework.ipynb](https://colab.research.google.com/drive/1OFD3yp1aZMj4YYVWIfjWSiWDj9XRHDzV)
+#Praca domowa 4 (Penalized regression): [Lab04_penalized_regression_homework.ipynb](https://colab.research.google.com/drive/1OFD3yp1aZMj4YYVWIfjWSiWDj9XRHDzV)
