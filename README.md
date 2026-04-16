@@ -11,3 +11,5 @@ Solutions to problems from https://github.com/SzymonNowakowski/Machine-Learning-
 #Praca domowa 4 (Penalized regression): [Lab04_penalized_regression_homework.ipynb](https://colab.research.google.com/drive/1OFD3yp1aZMj4YYVWIfjWSiWDj9XRHDzV)
 
 #Praca domowa 5 (Kernel methods): [Lab05_kernel_methods_homework.ipynb](https://colab.research.google.com/drive/1cRQdXPt8U_oiJyWpT_GQTWJXrpYppNwr)
+
+#Praca domowa 6 (Tree methods): [Lab06_tree-methods_homework.ipynb](https://colab.research.google.com/drive/1f6_Zdg83coF6hmrhNZkYmgretR3HICKw)
