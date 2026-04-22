@@ -14,4 +14,4 @@ Solutions to problems from https://github.com/SzymonNowakowski/Machine-Learning-
 
 #Praca domowa 6 (Tree methods): [Lab06_tree-methods_homework.ipynb](https://colab.research.google.com/drive/1f6_Zdg83coF6hmrhNZkYmgretR3HICKw)
 
-#Praca domowa 7 (Gradient boosting): [Lab06_gradient-boosting_homework.ipynb](https://colab.research.google.com/drive/1C7pA5wXCRHDwW09l-MHP6JqEeSAcTLpH)
+#Praca domowa 7 (Gradient boosting): [Lab07_gradient-boosting_homework.ipynb](https://colab.research.google.com/drive/1C7pA5wXCRHDwW09l-MHP6JqEeSAcTLpH)
