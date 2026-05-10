@@ -17,3 +17,5 @@ Solutions to problems from https://github.com/SzymonNowakowski/Machine-Learning-
 #Praca domowa 7 (Gradient boosting): [Lab07_gradient-boosting_homework.ipynb](https://colab.research.google.com/drive/1C7pA5wXCRHDwW09l-MHP6JqEeSAcTLpH)
 
 #Praca domowa 8 (Automatic gradient training loop): [Lab08_automatic_gradient_training_loop_homework.ipynb](https://colab.research.google.com/drive/1YliSFyOAADBLicmMyXG6R_ZAXiKiQqf1)
+
+#Praca domowa 9 (Multi Layer Perceptron (MLP)): [Lab09_multi_layer_perceptron_MLP_homework_anim.ipynb](https://colab.research.google.com/drive/1mpSUNfBN5_dItEz5NWUks--WIQDx1mN5)
