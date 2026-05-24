@@ -22,3 +22,5 @@ Solutions to problems from https://github.com/SzymonNowakowski/Machine-Learning-
 
 #Praca domowa 10 (Convolutional Neural Network, CNN): [Lab10-convolutional-neural-network-CNN_homework.ipynb](https://colab.research.google.com/drive/1i9uVbsz-ZFIfRQg-fv8ft1_q8sLWY_Jp?authuser=1)
 
+#Praca domowa 11 (Natural Language Processing - Towards Attention): [Lab11_NLP_towards_attention_homework.ipynb](https://colab.research.google.com/drive/1IsD2ULvXbW2t-azclxqXn3fqtdwR3-Sl?authuser=1)
+
