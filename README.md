@@ -24,3 +24,7 @@ Solutions to problems from https://github.com/SzymonNowakowski/Machine-Learning-
 
 #Praca domowa 11 (Natural Language Processing - Towards Attention): [Lab11_NLP_towards_attention_homework.ipynb](https://colab.research.google.com/drive/1IsD2ULvXbW2t-azclxqXn3fqtdwR3-Sl?authuser=1)
 
+#Praca domowa 12 (Towards self-attention): [To be completed]
+
+#Praca domowa 13 (Autoencoders): [Lab13-autoencoders_homework.ipynb](https://colab.research.google.com/github/lukasz23g/Machine-Learning-2026/blob/main/Lab13-autoencoders_homework.ipynb)
+
